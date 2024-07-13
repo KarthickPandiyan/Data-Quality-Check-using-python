@@ -1,2 +1,2 @@
-# Python_Data_Quality_Check
+# Python Data Quality Check
 Compare Source and Target Tables in Hive
